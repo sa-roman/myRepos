@@ -1,1 +1,2 @@
 I look programming and things.
+Now I am going to set up the remote repository.
